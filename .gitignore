@@ -30,6 +30,7 @@ nb-configuration.xml
 # Vim
 *.swp
 *.swo
+*~
 
 # patch
 *.orig
